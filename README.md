@@ -1,7 +1,7 @@
-# <h1 align="center">👋 Hi, I'm Rikki0108 🚀💫</h1>
+# <h1 align="center">👋 Hi, I'm Rikki 🚀💫</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🎭+*Why+so+serious*;🤖+LLM+Explorer;📚+Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🎭+*ENTP*;🤖+LLM+Explorer;📚+Always+Learning..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@ const rikki = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rikki0108)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyrikki@hotmail.com)
 
 </div>
 
